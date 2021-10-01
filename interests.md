@@ -177,4 +177,12 @@ Member Id: 8
 * Favourite quote:  "We write to taste life twice, in the moment and in retrospect."
 * Author of quote: Anaïs Nin
 * Role model: Ngochi Huebert
+
+Member Id: 9
+* Favourite Programming Language: python
+* Track of interest: AI, datascience, machine learning and embbed systems 
+* Favourite quote: Stay hungry, stay foolish
+* Author of quote: Steve Jobs 
+* Role model: null
+
  
